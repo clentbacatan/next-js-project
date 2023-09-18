@@ -1,0 +1,15 @@
+https://dev.to/borasvm/react-create-component-inside-a-component-456b
+
+https://levelup.gitconnected.com/programmatically-set-data-attribute-in-react-with-typescript-d256a2df712a
+
+1. interface is a way to specify the properties and methods that an object should have. Unlike classes, we cannot call a method on interface.
+
+E.g., inteface sampleInterface {
+    name: string,
+    age: number,
+    email: any
+}
+
+
+2. REACT.FC use when a function returns a React component.
+

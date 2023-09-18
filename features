@@ -14,4 +14,13 @@ Requirements:
 1. Create an input fields
 2. Create a virtual keyboard component
 3. Create a numeric keyboard component
+4. Component approach.
 
+
+Solution: 
+
+1. Create a component that will accept an input fields as an attribute.
+    1. 
+
+
+2. 
